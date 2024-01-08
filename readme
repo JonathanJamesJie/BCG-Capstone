@@ -1,1 +1,85 @@
+For our capstone project in the BCG Course. We were tasked with delivering key insights for a frozen food seller in Singapore.
 
+In particular, we were asked to look at deep dive into customer analytics through customer segmentation and pricing analysis for their SKUs.
+
+The deliverables were as follows for each section
+
+Customer Segmentation
+RFM Analysis: Analyze top 20 SKUs based on recency, frequency, and monetary value to identify high-value customer segments.
+Expected Impact: Tailor marketing strategies based on segmented customer data for improved business outcomes.
+
+Pricing Analysis
+Price Elasticity Analysis: Evaluate demand for top 5 SKUs in 6 segments to understand how price changes affect demand within and across categories.
+Expected Impact: Optimize pricing strategies for SKU pairs to drive potential business benefits.
+
+Data Visualization
+PowerBi Dashboard: Visualize sales trends, displaying historical and current data for better insights.
+Price Bucket Segmentation: Segment SKUs by price to assess their influence on sales and customer preferences.
+Key Insights: Highlight critical business findings for informed decision-making.
+
+Actionable Insights
+Implementation Roadmap: Provide a clear plan to practically apply segmentation and pricing insights, suggesting marketing or pricing strategy changes.
+Business Impact Assessment: Define expected improvements in key metrics resulting from recommended strategies.
+
+For the final presentation, a Powerpoint Presentation would also need to be prepared. 
+
+The main challenge here was the time constraint of 3 weeks and the coordination of time between the group members as many were working full time. 
+
+Data quality of the 6 months of sales records of their business 2 business customers, which after exploratory data analysis revealed that price elasticity was impossible to do with the data being provided. We could only determine complementary and substitute products with cross price elasticity analysis but not implement or find any price optimization strategies.
+
+I have uploaded the code and presentation so that the details are there. Here are the Key takeaways
+
+Customer Segmentation
+
+Augment Revenue from high value champions 
+
+Dedicated account management; customised product bundles; regular performance reviews; extended payment terms.
+Given notable focus on RTC products by Champions, room for revenue growth if CS Tay can cross-sell RTE and Raw products to Fairprice and RTE products to Cold Storage (e.g. promote strongly associated Raw combinations from market basket analysis, i.e. whole range of S-pure fresh poultry, which are complementary from X-price analysis)
+
+Bring back and re-engage hibernating customers
+
+Customised Re-Engagement Promotions
+Volume or frequency-based reactivation bundle discounts to incentivise return – segment has common heavy preference for RTC products (e.g. Crispy Chicken
+Seaweed + Crispy Chicken Original (52x more likely to buy 1, given the other) despite wide range of customers from mini-marts to caterers
+
+Seasonal and Trend-Based Campaigns
+Align reactivation outreach with seasonal promotions and emerging food trends – data revealed some seasonality for weekends (Grilled Chix Steak (5 Pkt)) and sales spike for key dates
+
+Low-Cost Efforts for Maximum Outreach
+Leverage technology to reach large group of hibernating customers, e.g. emailers or online communications, before further re-engagement
+
+Continued engagement of loyal customers
+
+Tiered incentive programme to drive sales
+Year long Rebates programme to reward total spend from Customers through regular sales campaigns such as bundling of products with high lift in relation to Fried Crispy Drum for Fried Crispy Thigh and Crispy Chicken Strip (almost 10x more likely to purchase)
+
+Build customer advocacy board to attract new clients
+
+Strong Advocates to promote CS Tay’s products to potential customers of buying and services experiences with the company. Offer incentives for referrals for new customers as well.
+
+Pricing Analysis
+
+Exploit strong associations among complements
+
+Insights: In specific segments like Retail Raw'sTop 5 Products, all items are complementary, which are very likely to be purchased together, creating significant potential.
+Recommendation:
+Implement bundling and cross promotionto boost sales and increase awareness and adoption of complementary products.
+Align these strategieswith our reengagement plan for hibernating customers, as the top 5 products for this segment are also complementaryand very strongly associatedbased on market basket analysis.
+
+Actionable Insights
+Customers
+
+Beyond segmentation to personalisation to understand and tailor customer experiences Feedback and sentiment analysis.
+
+Pricing
+
+Pricing models with further data and real-life constraints Scenario modelling and sensitivity analysis.
+
+Inventory
+
+Inventory optimisation based on forecasting demand from customer and price insights
+ABC / XYZ classification method
+
+Further Analysis
+Further market and consumer research
+Competitor analysis and strategic positioning Supply chain optimisation.
